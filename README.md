@@ -1,6 +1,6 @@
 # Welcome!!
 
-My name is Efthymis Michalis. My life flow could be described as a super position space. Inspired by arts and philosophy. Starting abstractly and ending to the core. 
+My name is Efthymis Michalis. My life flow could be described as a growing super position space. Inspired by arts and philosophy. Starting abstractly and ending to the core. 
 
 Based on the above paragraph, theres no difference with the projects approach. 
 
