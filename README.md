@@ -1,16 +1,14 @@
-### Hi there 👋
+# Welcome!!
 
-<!--
-**efth-mcl/efth-mcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Efthymis Michalis. My life flow could be described as a super position space. Inspired by arts and philosophy. Starting abstractly and ending to the core. 
 
-Here are some ideas to get you started:
+Based on the above paragraph, theres no difference with the projects approach. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Those projects many times, starts from paper and crafted graphical description with mathematical language. Algorithms comes from the other side as an approaching method. 
+
+My work is to reduce the gap between maths and algorithms. Until this gap is bellow by a suitable threshold.
+
+--
+--
+
+Below, are some of those projects.
